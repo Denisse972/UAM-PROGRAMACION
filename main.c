@@ -9,6 +9,7 @@ int main(){
 
     do
     {
+        printf("Mi primera practica :)");
         printf("\nMenu\n");
         printf("1 - Mostrar la suma de numeros pares\n");
         printf("2 - Invertir elementos de un vector\n");
