@@ -13,6 +13,8 @@ void sumasPares() {
 	printf("Ingrese un numero entero: \n");
 	scanf("%d", &m);
 
+	printf("Gracias por ingresar los numeros");
+
     while (n <= m){
 		if ( n % 2 == 0){
 			suma += n;
